@@ -1,0 +1,9 @@
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\bin\Debug\Aplicacion clase.exe.config
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\bin\Debug\Aplicacion clase.exe
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\bin\Debug\Aplicacion clase.pdb
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion clase.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion_clase.Form1.resources
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion_clase.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion clase.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion clase.exe
+C:\Users\Lab3\Desktop\Clase 28 de Marzo\Clase 28 de Marzo de 2019\Aplicacion clase\obj\Debug\Aplicacion clase.pdb
