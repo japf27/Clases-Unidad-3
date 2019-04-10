@@ -56,8 +56,45 @@ namespace WindowsFormsApplication1
             if (d.IsReady)
             {
                 DirectoryInfo dir = new DirectoryInfo(unidades);
-                treeView1.Nodes.Add
+                foreach (DirectoryInfo sub in dir.GetDirectories())
+                {
+                        treeView1.Nodes.Add(sub.Name);
+                    
+                }
+                foreach (FileInfo file in dir.GetFiles())
+                {
+                    TreeNode nodo = new TreeNode();
+                    nodo.Text = file.Name;
+                    nodo.ForeColor = Color.Blue;
+                    treeView1.Nodes.Add(nodo);
+
+                }
+                
+            } 
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String Dir = "C:/test";
+            String arch = "C:/prueba.txt"
+            if (!Directory.Exists(Dir))
+            {
+                Directory.CreateDirectory(Dir);
             }
+            else
+            {
+                MessageBox.Show("Existe el directorio");
+            }
+            if (!File.Exists(arch))
+            {
+                File.Create(arch);
+            }
+            else
+            {
+                MessageBox.Show("Existe el archivo");
+            }
+
         }
     }
 }
