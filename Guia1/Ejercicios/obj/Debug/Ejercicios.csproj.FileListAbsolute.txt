@@ -1,0 +1,39 @@
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.MDIParent1.resources
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Lab3\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.pdb
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio1.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio2.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio3.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio4.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio5.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.MDIParent1.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\obj\Debug\Ejercicios.pdb
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Jorge\Desktop\Guia1 programacion 1\Guia1\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio1.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio2.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio3.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio4.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Ejercicio5.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.MDIParent1.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Jorge\Desktop\Guia1\Ejercicios\obj\Debug\Ejercicios.pdb
