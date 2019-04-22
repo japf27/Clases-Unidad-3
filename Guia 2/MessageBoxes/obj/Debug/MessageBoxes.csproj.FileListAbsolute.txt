@@ -1,0 +1,13 @@
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\bin\Debug\MessageBoxes.exe.config
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.pdb
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.Form2.resources
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.MDIParent1.resources
+C:\Users\Jorge\Desktop\Guia 2\MessageBoxes\obj\Debug\MessageBoxes.Form3.resources
